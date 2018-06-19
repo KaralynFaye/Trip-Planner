@@ -1,10 +1,12 @@
 <link href = 'https://api.mapbox.com/mapbox-gl-js/v0.46.0-beta.1/mapbox-gl.css' rel='stylesheet' />
 
+
 * {
   box-sizing: border-box;
 }
 
 body {
+  display: flex;
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #C1B5AD;
